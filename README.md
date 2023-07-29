@@ -1,1 +1,1 @@
-# medium
+Medium clone website using laravel with default authentication. This website contains blog CRUD, comment section, favorite features and customizable user profile. There is also bootstrap template admin panel.
